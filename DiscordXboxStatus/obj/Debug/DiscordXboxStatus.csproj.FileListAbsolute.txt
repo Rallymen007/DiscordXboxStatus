@@ -1,0 +1,10 @@
+F:\dl\DiscordXboxStatus\DiscordXboxStatus\bin\Debug\DiscordXboxStatus.exe
+F:\dl\DiscordXboxStatus\DiscordXboxStatus\bin\Debug\DiscordXboxStatus.pdb
+F:\dl\DiscordXboxStatus\DiscordXboxStatus\obj\Debug\DiscordXboxStatus.csprojResolveAssemblyReference.cache
+F:\dl\DiscordXboxStatus\DiscordXboxStatus\obj\Debug\DiscordXboxStatus.exe
+F:\dl\DiscordXboxStatus\DiscordXboxStatus\obj\Debug\DiscordXboxStatus.pdb
+F:\dl\DiscordXboxStatus\DiscordXboxStatus\bin\Debug\DiscordXboxStatus.exe.config
+F:\dl\DiscordXboxStatus\DiscordXboxStatus\obj\Debug\DiscordXboxStatus.Properties.Resources.resources
+F:\dl\DiscordXboxStatus\DiscordXboxStatus\obj\Debug\DiscordXboxStatus.csproj.GenerateResource.Cache
+F:\dl\DiscordXboxStatus\DiscordXboxStatus\bin\Debug\Newtonsoft.Json.dll
+F:\dl\DiscordXboxStatus\DiscordXboxStatus\bin\Debug\Newtonsoft.Json.xml
